@@ -1,16 +1,16 @@
 # React workshop
 
-This repo hosts some simple applications to use to explain React concents. Some of the applications have a Medium article coming along with them so feel free to check them please.
+This repo hosts some simple applications to explain React concepts. Some of the applications have a Medium article along with them so feel free to check them please.
 
 Enjoy.
 
-## Is Basket!
+## Is Basket! - UseReducer hook
 
 A simple application to demonstrate UseReducer hook. Here is the artice [on Medium.](https://tasbasi.medium.com/react-usereducer-hook-made-simple-1df1f9838bb9)
 
-## Counter
+## Counter - UseState hook
 
-React counter to demonstrate UseSession hook.
+React counter to demonstrate UseState hook.
 
 ## Food order app
 
