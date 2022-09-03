@@ -6,7 +6,7 @@ Enjoy.
 
 ## Is Basket!
 
-A simple application to demonstrate UseReducer hook. Here is the artice [on Medium](https://tasbasi.medium.com/react-usereducer-hook-made-simple-1df1f9838bb9)
+A simple application to demonstrate UseReducer hook. Here is the artice [on Medium.](https://tasbasi.medium.com/react-usereducer-hook-made-simple-1df1f9838bb9)
 
 ## Counter
 
